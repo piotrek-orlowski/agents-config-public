@@ -1,0 +1,4 @@
+# Shared behavior. Keep machine addresses and private paths in fleet.local.toml.
+remote = "origin"
+branch = "main"
+state_name = "agents-config-public"

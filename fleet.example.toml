@@ -1,0 +1,10 @@
+# Copy to fleet.local.toml (ignored by Git). SSH aliases need existing access.
+[targets.worker]
+ssh_host = "skill-worker"
+profile = "linux"
+path = "git/agents-config-public"
+
+[targets.laptop]
+ssh_host = "skill-laptop"
+profile = "mac"
+path = "git/agents-config-public"

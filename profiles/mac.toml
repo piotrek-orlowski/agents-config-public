@@ -1,0 +1,3 @@
+name = "mac"
+os = "darwin"
+exclude_skills = []
